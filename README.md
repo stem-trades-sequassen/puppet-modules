@@ -1,4 +1,5 @@
 # STEM/Trades Puppet Modules
+# Most likely defunct. Ansible seems to be more our style.
 
 In-house modules that will enable rapid (re)deployment of student computers
 
