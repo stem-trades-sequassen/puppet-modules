@@ -1,5 +1,5 @@
 # STEM/Trades Puppet Modules
-# Most likely defunct. Ansible seems to be more our style.
+# Deprecated. Area now uses Ansible to prevent server overhead.
 
 In-house modules that will enable rapid (re)deployment of student computers
 
